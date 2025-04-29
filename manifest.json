@@ -1,0 +1,12 @@
+{
+  "id": "mangaup.ir",
+  "name": "Mangaup.ir",
+  "version": "1.0.0",
+  "language": "fa",
+  "type": "manga",
+  "author": "yourname",
+  "url": "https://mangaup.ir",
+  "description": "خواندن مانگا از سایت Mangaup.ir",
+  "contentRating": "safe",
+  "tags": ["مانگا", "فارسی"]
+}
