@@ -3,7 +3,7 @@
 📖 یک افزونه برای اپلیکیشن [Mihon](https://mihon.app) برای خواندن مانگا از سایت [Mangaup.ir](https://mangaup.ir).
 
 ## نصب
-https://raw.githubusercontent.com/YOUR_USERNAME/mihon-extension-mangaup/main/index.min.json
+https://raw.githubusercontent.com/agmare/mihon-extension-mangaup/main/index.min.json
 
 ## ویژگی‌ها
 - نمایش لیست مانگاهای جدید
